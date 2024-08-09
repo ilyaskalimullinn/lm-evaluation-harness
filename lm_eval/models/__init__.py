@@ -11,7 +11,7 @@ from . import (
     optimum_lm,
     textsynth,
     vllm_causallms,
-    gguf_hf,
+    gguf_completion,
 )
 
 
